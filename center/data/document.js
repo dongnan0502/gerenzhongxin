@@ -71,7 +71,19 @@
 {
                             "pageName":"查看详情（等待我处理情景）",
                             "type":"Wireframe",
-                            "url":"查看详情（等待我处理情景）.html"}]}]}]}]}]}]},
+                            "url":"查看详情（等待我处理情景）.html"}]}]}]}]},
+{
+            "pageName":"资源帐单",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"L0/L1节点视图",
+                "type":"Wireframe",
+                "url":"l0_l1节点视图.html"},
+{
+                "pageName":"L2节点视图",
+                "type":"Wireframe",
+                "url":"l2节点视图.html"}]}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{
