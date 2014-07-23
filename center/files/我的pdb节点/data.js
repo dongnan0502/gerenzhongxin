@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的pdb节点.html",
-  "generationDate":new Date(1406084502265.76),
+  "generationDate":new Date(1406087680124),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"添加个人帐号.html",
-  "generationDate":new Date(1406084506897.62),
+  "generationDate":new Date(1406087684803.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
