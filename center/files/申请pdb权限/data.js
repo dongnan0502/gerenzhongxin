@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"申请pdb权限.html",
-  "generationDate":new Date(1406119787544.99),
+  "generationDate":new Date(1406205000825.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1379,10 +1379,10 @@
               "opacity":1},
             "location":{
               "x":567,
-              "y":786},
+              "y":760},
             "size":{
               "width":82,
-              "height":25},
+              "height":32},
             "borderFill":{
               "fillType":"solid",
               "color":0xFF999999},
@@ -1406,10 +1406,10 @@
                   "opacity":1},
                 "location":{
                   "x":567,
-                  "y":786},
+                  "y":760},
                 "size":{
                   "width":82,
-                  "height":25},
+                  "height":32},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF999999},
@@ -1508,8 +1508,8 @@
               "x":401,
               "y":617},
             "size":{
-              "width":297,
-              "height":107},
+              "width":400,
+              "height":86},
             "borderFill":{
               "fillType":"solid",
               "color":0xFF999999},
@@ -1529,8 +1529,8 @@
                   "x":401,
                   "y":617},
                 "size":{
-                  "width":297,
-                  "height":107},
+                  "width":400,
+                  "height":86},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF999999},
@@ -1664,7 +1664,7 @@
             "fontWeight":"200",
             "location":{
               "x":283,
-              "y":467},
+              "y":480},
             "size":{
               "width":125,
               "height":12}},
@@ -1683,7 +1683,7 @@
                 "fontWeight":"200",
                 "location":{
                   "x":283,
-                  "y":467},
+                  "y":480},
                 "size":{
                   "width":125,
                   "height":12}},
@@ -1741,8 +1741,8 @@
               "x":402,
               "y":560},
             "size":{
-              "width":297,
-              "height":25},
+              "width":400,
+              "height":32},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFCCCCCC},
@@ -1761,8 +1761,8 @@
                   "x":402,
                   "y":560},
                 "size":{
-                  "width":297,
-                  "height":25},
+                  "width":400,
+                  "height":32},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFCCCCCC},
@@ -1831,7 +1831,7 @@
               "y":418},
             "size":{
               "width":96,
-              "height":25},
+              "height":32},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFCCCCCC}},
@@ -1859,14 +1859,14 @@
                   "y":418},
                 "size":{
                   "width":96,
-                  "height":25},
+                  "height":32},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFCCCCCC}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心/u110.png"}},
+            "normal~":"images/申请pdb权限/u88.png"}},
 {
           "id":"dc83a9665f154c6fa05683348a25cbfe",
           "label":"",
@@ -1876,10 +1876,10 @@
           "style":{
             "location":{
               "x":402,
-              "y":460},
+              "y":470},
             "size":{
-              "width":297,
-              "height":25},
+              "width":400,
+              "height":32},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFCCCCCC},
@@ -1896,10 +1896,10 @@
               "style":{
                 "location":{
                   "x":402,
-                  "y":460},
+                  "y":470},
                 "size":{
-                  "width":297,
-                  "height":25},
+                  "width":400,
+                  "height":32},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFCCCCCC},
@@ -1924,7 +1924,7 @@
               "opacity":1},
             "location":{
               "x":417,
-              "y":467},
+              "y":480},
             "size":{
               "width":200,
               "height":12}},
@@ -1947,7 +1947,7 @@
                   "opacity":1},
                 "location":{
                   "x":417,
-                  "y":467},
+                  "y":480},
                 "size":{
                   "width":200,
                   "height":12}},
@@ -1971,7 +1971,7 @@
               "opacity":1},
             "location":{
               "x":417,
-              "y":565},
+              "y":571},
             "size":{
               "width":200,
               "height":12}},
@@ -1994,7 +1994,7 @@
                   "opacity":1},
                 "location":{
                   "x":417,
-                  "y":565},
+                  "y":571},
                 "size":{
                   "width":200,
                   "height":12}},
@@ -2060,8 +2060,8 @@
               "fillType":"solid",
               "color":0xFFCCCCCC},
             "location":{
-              "x":680,
-              "y":569},
+              "x":780,
+              "y":573.5},
             "size":{
               "width":10,
               "height":7},
@@ -2082,8 +2082,8 @@
                   "fillType":"solid",
                   "color":0xFFCCCCCC},
                 "location":{
-                  "x":680,
-                  "y":569},
+                  "x":780,
+                  "y":573.5},
                 "size":{
                   "width":10,
                   "height":7},
@@ -2110,13 +2110,13 @@
               "opacity":1},
             "fill":{
               "fillType":"solid",
-              "color":0xFF009DD9},
+              "color":0xFF0099FF},
             "location":{
               "x":666,
-              "y":786},
+              "y":760},
             "size":{
               "width":82,
-              "height":25},
+              "height":32},
             "borderFill":{
               "fillType":"solid",
               "color":0xFF199ED7},
@@ -2140,13 +2140,13 @@
                   "opacity":1},
                 "fill":{
                   "fillType":"solid",
-                  "color":0xFF009DD9},
+                  "color":0xFF0099FF},
                 "location":{
                   "x":666,
-                  "y":786},
+                  "y":760},
                 "size":{
                   "width":82,
-                  "height":25},
+                  "height":32},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF199ED7},
@@ -3503,7 +3503,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/申请pdb权限/u66.png"}},
+            "normal~":"images/申请pdb权限/u160.png"}},
 {
           "id":"c7a0982ae1c54a2e985dda44b56da3a5",
           "label":"",
@@ -3624,7 +3624,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/申请pdb权限/u72.png"}},
+            "normal~":"images/申请pdb权限/u166.png"}},
 {
           "id":"6802c20c63d14f82822db7218fa4cfd5",
           "label":"",
@@ -3905,7 +3905,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/申请pdb权限/u84.png"}},
+            "normal~":"images/申请pdb权限/u180.png"}},
 {
           "id":"35c11235db454a3fb3face743d3a2a65",
           "label":"",
@@ -4042,7 +4042,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/申请pdb权限/u84.png"}},
+            "normal~":"images/申请pdb权限/u180.png"}},
 {
           "id":"933f58682af64a6493d6f1b92a3631ac",
           "label":"",
@@ -4289,7 +4289,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/申请pdb权限/u100.png"}},
+            "normal~":"images/申请pdb权限/u196.png"}},
 {
           "id":"87fec5c576584794bcca76130b168042",
           "label":"",

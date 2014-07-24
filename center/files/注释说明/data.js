@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"注释说明.html",
-  "generationDate":new Date(1406119781935.74),
+  "generationDate":new Date(1406204995147.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -73,7 +73,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/页面规范/u2.png"}},
+            "normal~":"images/注释说明/u0.png"}},
 {
           "id":"38be8fdba587435a85fa9dc3d583b02a",
           "label":"",
@@ -125,7 +125,7 @@
               "y":15},
             "size":{
               "width":127,
-              "height":15}},
+              "height":30}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -141,7 +141,7 @@
                   "y":15},
                 "size":{
                   "width":127,
-                  "height":15}},
+                  "height":30}},
               "adaptiveStyles":{
 }}],
           "images":{
