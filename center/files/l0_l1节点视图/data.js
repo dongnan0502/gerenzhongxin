@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"l0_l1节点视图.html",
-  "generationDate":new Date(1406252855754.37),
+  "generationDate":new Date(1406256902035.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

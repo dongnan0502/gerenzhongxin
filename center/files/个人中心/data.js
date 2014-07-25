@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心.html",
-  "generationDate":new Date(1406252843303.97),
+  "generationDate":new Date(1406256889160.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -7530,13 +7530,13 @@
             "horizontalAlignment":"center",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFF666666,
+              "color":0xFFFF0000,
               "opacity":1},
             "location":{
               "x":1226,
               "y":1830},
             "size":{
-              "width":53,
+              "width":73,
               "height":15}},
           "adaptiveStyles":{
 },
@@ -7553,13 +7553,13 @@
                 "horizontalAlignment":"center",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFF666666,
+                  "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
                   "x":1226,
                   "y":1830},
                 "size":{
-                  "width":53,
+                  "width":73,
                   "height":15}},
               "adaptiveStyles":{
 }}],
@@ -7695,7 +7695,7 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":1226,
+              "x":1225,
               "y":1876},
             "size":{
               "width":73,
@@ -7718,7 +7718,7 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":1226,
+                  "x":1225,
                   "y":1876},
                 "size":{
                   "width":73,
@@ -7737,11 +7737,15 @@
             "fontName":"'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC'",
             "fontWeight":"200",
             "horizontalAlignment":"center",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
             "location":{
-              "x":1226,
+              "x":1225,
               "y":1919},
             "size":{
-              "width":53,
+              "width":73,
               "height":15}},
           "adaptiveStyles":{
 },
@@ -7756,11 +7760,15 @@
                 "fontName":"'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC'",
                 "fontWeight":"200",
                 "horizontalAlignment":"center",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
                 "location":{
-                  "x":1226,
+                  "x":1225,
                   "y":1919},
                 "size":{
-                  "width":53,
+                  "width":73,
                   "height":15}},
               "adaptiveStyles":{
 }}],
@@ -8526,11 +8534,15 @@
             "fontName":"'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC'",
             "fontWeight":"200",
             "horizontalAlignment":"center",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
             "location":{
               "x":1226,
               "y":2016},
             "size":{
-              "width":53,
+              "width":73,
               "height":15}},
           "adaptiveStyles":{
 },
@@ -8545,11 +8557,15 @@
                 "fontName":"'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC'",
                 "fontWeight":"200",
                 "horizontalAlignment":"center",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
                 "location":{
                   "x":1226,
                   "y":2016},
                 "size":{
-                  "width":53,
+                  "width":73,
                   "height":15}},
               "adaptiveStyles":{
 }}],
