@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"l2节点视图.html",
-  "generationDate":new Date(1406256904958.45),
+  "generationDate":new Date(1406269845737.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1876,7 +1876,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/申请pdb权限/u200.jpg"}},
+            "normal~":"images/申请pdb权限/u198.jpg"}},
 {
           "id":"72859b2ac7a74606b9767b859d2561e8",
           "label":"",

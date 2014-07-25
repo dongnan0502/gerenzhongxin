@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"添加个人帐号.html",
-  "generationDate":new Date(1406256894527.65),
+  "generationDate":new Date(1406269835261.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -87,7 +87,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u190.png"}},
+            "normal~":"images/用户管理/u188.png"}},
 {
           "id":"6d6b097aac1b4e5483a7105f719aa2ac",
           "label":"",
@@ -132,7 +132,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u192.png"}},
+            "normal~":"images/用户管理/u190.png"}},
 {
           "id":"c12a4a78a47e47c7abd9f682024f2de2",
           "label":"",
@@ -339,7 +339,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u202.png"}},
+            "normal~":"images/用户管理/u200.png"}},
 {
           "id":"119f13da859944369c18d30f485f98e6",
           "label":"",
@@ -372,7 +372,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u202.png"}},
+            "normal~":"images/用户管理/u200.png"}},
 {
           "id":"e8aa8ee9d2bb4f4ca2b1961885ab558f",
           "label":"",
@@ -405,7 +405,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u206.png"}},
+            "normal~":"images/用户管理/u204.png"}},
 {
           "id":"bebbdcdc07aa4770b7921e43f8bf5607",
           "label":"",
@@ -450,7 +450,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u208.png"}},
+            "normal~":"images/用户管理/u206.png"}},
 {
           "id":"e1f22f7727de4dfcb25810475a4621d5",
           "label":"",
@@ -532,7 +532,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u214.png"}},
+            "normal~":"images/用户管理/u212.png"}},
 {
           "id":"37666d7383614d1e89f06d64f4702054",
           "label":"",
@@ -571,7 +571,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"3b0f0ae33aa54e0b8d792b604319126d",
           "label":"",
@@ -616,7 +616,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"85226f2f5b9d463e8e6d2f81516a4126",
           "label":"",
@@ -655,7 +655,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"b2003457dfa54169962e9bacdf0d1449",
           "label":"",
@@ -700,7 +700,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"fdabea5e7c1c4304bd73c802c8034319",
           "label":"",
@@ -739,7 +739,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"1c5619c1022f4389baa50ee44036650f",
           "label":"",
@@ -784,7 +784,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"e8b04e1aee2645eca752ebb7f0dea4fa",
           "label":"",
@@ -823,7 +823,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"a157cc262f2a44028c500ed564271c8e",
           "label":"",
@@ -868,7 +868,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"e242ba9b375b4584a4a78203a667889e",
           "label":"",
@@ -907,7 +907,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"b2535a64545646c78eae9861fb917785",
           "label":"",
@@ -952,7 +952,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"88579ab986064a07b0cd339d42489e05",
           "label":"",
@@ -991,7 +991,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"6f373169e3784b3bb278905186cf0ffb",
           "label":"",
@@ -1036,7 +1036,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"cfc5fdc6926740d0a0715cd45187260a",
           "label":"",
@@ -1075,7 +1075,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"ecd4b84085f344879044782a26f91f48",
           "label":"",
@@ -1120,7 +1120,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"b2a553c5f9d546c490d68615f219a1aa",
           "label":"",
@@ -1159,7 +1159,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"88365cfc55af440daa732b949f5f6a13",
           "label":"",
@@ -1204,7 +1204,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"a43247243e9c4579a7ceb7c21d9e7f0d",
           "label":"",
@@ -1639,7 +1639,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u272.png"}},
+            "normal~":"images/用户管理/u270.png"}},
 {
           "id":"e43495846b2a48258003fd4f54b7a439",
           "label":"",
@@ -1684,7 +1684,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u274.png"}},
+            "normal~":"images/用户管理/u272.png"}},
 {
           "id":"af2916b6950f44a9b7d7e956380826f9",
           "label":"",
@@ -1723,7 +1723,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"fe2a7da069124ad186055cc016478230",
           "label":"",
@@ -1793,7 +1793,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"c8fbc9d4c2a840e2a63f8d1c07a44f18",
           "label":"",
@@ -1863,7 +1863,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"122eec952b934a53801dd0f63f5cb47a",
           "label":"",
@@ -1933,7 +1933,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"c81d1cbd7f1a4d9981c363107bd2e117",
           "label":"",
@@ -2003,7 +2003,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"772d4d1a3edb424aba1e66f429fa4314",
           "label":"",
@@ -2073,7 +2073,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"011b4a22db3b4669a60d535d11e3c68a",
           "label":"",
@@ -2143,7 +2143,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"bcaf97c3af1b4adb8283665ed27ec666",
           "label":"",
@@ -2213,7 +2213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"0873f0e279eb425c8e919ce827a222d1",
           "label":"",
@@ -2283,7 +2283,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"e013a18fe26e41718c648051885d5216",
           "label":"",
@@ -2353,7 +2353,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"d9ccc4df5864467cbbbad0d4d9480fbb",
           "label":"",
@@ -2423,7 +2423,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"e9858f880bfe42829da288adadff64be",
           "label":"",
@@ -2493,7 +2493,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"ae281008751b4706a65d89a2fc64aa47",
           "label":"",
@@ -2563,7 +2563,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"2226dfa5ef8c4acc840d6d82b1fd29d9",
           "label":"",
@@ -2633,7 +2633,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"3b3e4ccdca4a411a951f79d978f5c709",
           "label":"",
@@ -2703,7 +2703,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"26db0e922d6d4a7397283f0703d0d6c8",
           "label":"",
@@ -2791,7 +2791,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u336.png"}},
+            "normal~":"images/用户管理/u334.png"}},
 {
           "id":"ca626dd4b21747268f8b26a8c1bd1a82",
           "label":"",
@@ -2840,7 +2840,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u338.png"}},
+            "normal~":"images/用户管理/u336.png"}},
 {
           "id":"f081f65facfd4707a84fd9b5efffbc23",
           "label":"",
@@ -2938,7 +2938,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u190.png"}},
+            "normal~":"images/用户管理/u188.png"}},
 {
           "id":"633380cd750d45a7bfd2888ecd585a8e",
           "label":"",
@@ -2983,7 +2983,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u192.png"}},
+            "normal~":"images/用户管理/u190.png"}},
 {
           "id":"8cb4602f8eb548de8fccf22400d5ca47",
           "label":"",
@@ -3190,7 +3190,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u202.png"}},
+            "normal~":"images/用户管理/u200.png"}},
 {
           "id":"6740fdb5e69d4d30872cfbaa87ef8366",
           "label":"",
@@ -3223,7 +3223,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u202.png"}},
+            "normal~":"images/用户管理/u200.png"}},
 {
           "id":"c0446b5ccd83499c89563f8b44467b59",
           "label":"",
@@ -3256,7 +3256,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u206.png"}},
+            "normal~":"images/用户管理/u204.png"}},
 {
           "id":"194408e215e64e7a831fe09ee7e42688",
           "label":"",
@@ -3301,7 +3301,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u208.png"}},
+            "normal~":"images/用户管理/u206.png"}},
 {
           "id":"c3628e076ec2419a927d4de57b3a1b24",
           "label":"",
@@ -3383,7 +3383,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u214.png"}},
+            "normal~":"images/用户管理/u212.png"}},
 {
           "id":"fea29b214da846da88d229a0ebfabce6",
           "label":"",
@@ -3422,7 +3422,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"05d24606dc254c2da2382fff78ff9a15",
           "label":"",
@@ -3467,7 +3467,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"83906eb680ba420e9041313d48c31a71",
           "label":"",
@@ -3506,7 +3506,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"09c1295c8d154af1a13c1089e9ee44bd",
           "label":"",
@@ -3551,7 +3551,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"7541b45acaf34c0c94779fc007eb5aed",
           "label":"",
@@ -3590,7 +3590,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"a2bbff17b95c4148b5a5dbb9dbd80c53",
           "label":"",
@@ -3635,7 +3635,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"e35ee7787653415baa47d3848aba40c1",
           "label":"",
@@ -3674,7 +3674,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"906029b57562494b8a1094bcfc05ab0d",
           "label":"",
@@ -3719,7 +3719,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"9092226a2c1941488ceae203d3bce431",
           "label":"",
@@ -3758,7 +3758,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"88a907ad2e274923b4ceecd4efc3a8b5",
           "label":"",
@@ -3803,7 +3803,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"bf6a0cf84a19419ab30c1fed7b21af29",
           "label":"",
@@ -3842,7 +3842,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"0cd8036a41164146a0a9027b890c723d",
           "label":"",
@@ -3887,7 +3887,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"d6de0ed17a054291af475020723a3f59",
           "label":"",
@@ -3926,7 +3926,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"52748d78b84c42c6869e8bd79c151744",
           "label":"",
@@ -3971,7 +3971,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"1a19800539394ec68e00eaadbb287321",
           "label":"",
@@ -4010,7 +4010,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"e5ae1b845cd84bbf92e54c83644e4da2",
           "label":"",
@@ -4055,7 +4055,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u218.png"}},
+            "normal~":"images/用户管理/u216.png"}},
 {
           "id":"c1591aaf86f6421b8240e896e2d0a56c",
           "label":"",
@@ -4490,7 +4490,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u272.png"}},
+            "normal~":"images/用户管理/u270.png"}},
 {
           "id":"4c18e97b492b448f839e8f28628a0d0e",
           "label":"",
@@ -4535,7 +4535,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u274.png"}},
+            "normal~":"images/用户管理/u272.png"}},
 {
           "id":"625bcef8f8c449f6b0ee2ccf80449346",
           "label":"",
@@ -4574,7 +4574,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"39965d8662e842f9a37e340d7c2428d9",
           "label":"",
@@ -4644,7 +4644,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"d2bfa981be564c6680db01f9956239c5",
           "label":"",
@@ -4714,7 +4714,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"1fd00600a4f84cd19787b8bb586d8ab6",
           "label":"",
@@ -4784,7 +4784,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"38c4fc2183c848c3988d32c5d55296a9",
           "label":"",
@@ -4854,7 +4854,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"6b0de0350b174be9a950e10c49cfccc7",
           "label":"",
@@ -4924,7 +4924,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"fd1d4f6c5de94065b90a66f13658c818",
           "label":"",
@@ -4994,7 +4994,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"9e1e1a56cd4542fea6748e2b0e5d2da1",
           "label":"",
@@ -5064,7 +5064,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"4331350012914df697002b5dccba4c5f",
           "label":"",
@@ -5134,7 +5134,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"eed573010969433d8052647278b6dae2",
           "label":"",
@@ -5204,7 +5204,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"9261ff80c3834955aaa8533a7459a8e6",
           "label":"",
@@ -5274,7 +5274,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"ef0696bc7b024faf9e1ac06dd20af770",
           "label":"",
@@ -5344,7 +5344,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"ff1df020e2b148589cfa8f31a5830474",
           "label":"",
@@ -5414,7 +5414,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"73e3245b25dc4a6baffb662867767039",
           "label":"",
@@ -5484,7 +5484,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"4f4ad00308d54c61b99a28f06e97eb22",
           "label":"",
@@ -5554,7 +5554,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u216.png"}},
+            "normal~":"images/用户管理/u214.png"}},
 {
           "id":"427aa2bcffb346c9b5e1e89028d48bde",
           "label":"",
@@ -5642,7 +5642,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u336.png"}},
+            "normal~":"images/用户管理/u334.png"}},
 {
           "id":"6756bf32d2f44fecb7306b44a6d6f926",
           "label":"",
@@ -5691,7 +5691,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u338.png"}},
+            "normal~":"images/用户管理/u336.png"}},
 {
           "id":"9bff2cfc7a374ed181da94e60f471e2d",
           "label":"",
@@ -5896,7 +5896,7 @@
 },
           "images":{
             "start~":"resources/images/transparent.gif",
-            "end~":"images/申请pdb权限/u349_end.png",
+            "end~":"images/申请pdb权限/u345_end.png",
             "line~":"images/添加个人帐号/u308_line.png"}},
 {
           "id":"276052f27bbf419eb4d79b3cf7ca6851",

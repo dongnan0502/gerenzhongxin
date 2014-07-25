@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的pdb节点.html",
-  "generationDate":new Date(1406256890074.09),
+  "generationDate":new Date(1406269829867.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -854,6 +854,7 @@
           "visible":true,
           "style":{
             "fontName":"'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC'",
+            "fontSize":"14px",
             "fontWeight":"200",
             "location":{
               "x":262,
@@ -872,6 +873,7 @@
               "visible":true,
               "style":{
                 "fontName":"'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC'",
+                "fontSize":"14px",
                 "fontWeight":"200",
                 "location":{
                   "x":262,

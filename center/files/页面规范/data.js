@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"页面规范.html",
-  "generationDate":new Date(1406256886883.08),
+  "generationDate":new Date(1406269826010.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1561,7 +1561,7 @@
               "x":881,
               "y":467},
             "size":{
-              "width":110,
+              "width":32,
               "height":15}},
           "adaptiveStyles":{
 },
@@ -1577,7 +1577,7 @@
                   "x":881,
                   "y":467},
                 "size":{
-                  "width":110,
+                  "width":32,
                   "height":15}},
               "adaptiveStyles":{
 }}],

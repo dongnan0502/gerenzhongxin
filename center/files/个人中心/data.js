@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心.html",
-  "generationDate":new Date(1406256889160.58),
+  "generationDate":new Date(1406269828711.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1648,6 +1648,7 @@
           "visible":true,
           "style":{
             "fontName":"'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC'",
+            "fontSize":"14px",
             "fontWeight":"200",
             "location":{
               "x":262,
@@ -1666,6 +1667,7 @@
               "visible":true,
               "style":{
                 "fontName":"'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC'",
+                "fontSize":"14px",
                 "fontWeight":"200",
                 "location":{
                   "x":262,
@@ -4736,8 +4738,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1596,
-              "y":862},
+              "x":1594,
+              "y":850},
             "size":{
               "width":338,
               "height":45},
@@ -4756,8 +4758,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":1596,
-                  "y":862},
+                  "x":1594,
+                  "y":850},
                 "size":{
                   "width":338,
                   "height":45},
@@ -11255,8 +11257,8 @@
               "color":0xFFC9C9C9,
               "opacity":1},
             "location":{
-              "x":1697,
-              "y":910},
+              "x":1695,
+              "y":898},
             "size":{
               "width":142,
               "height":14}},
@@ -11276,8 +11278,8 @@
                   "color":0xFFC9C9C9,
                   "opacity":1},
                 "location":{
-                  "x":1697,
-                  "y":910},
+                  "x":1695,
+                  "y":898},
                 "size":{
                   "width":142,
                   "height":14}},
