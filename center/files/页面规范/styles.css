@@ -81,7 +81,7 @@
 }
 #u6 {
   position:absolute;
-  left:50px;
+  left:16px;
   top:90px;
   width:257px;
   height:33px;
@@ -929,4 +929,50 @@
   top:0px;
   width:32px;
   white-space:nowrap;
+}
+#u84 {
+  position:absolute;
+  left:16px;
+  top:550px;
+  width:257px;
+  height:33px;
+  font-family:'STHeitiSC-Medium', 'Heiti SC Medium', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+}
+#u84_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:257px;
+  height:33px;
+}
+#u85 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:257px;
+  white-space:nowrap;
+}
+#u86 {
+  position:absolute;
+  left:0px;
+  top:626px;
+  width:1024px;
+  height:518px;
+}
+#u86_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1024px;
+  height:518px;
+}
+#u87 {
+  position:absolute;
+  left:2px;
+  top:251px;
+  width:1020px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
