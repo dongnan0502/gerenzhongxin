@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看详情（等待我处理情景）.html",
-  "generationDate":new Date(1406548463183.63),
+  "generationDate":new Date(1406548967855.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
