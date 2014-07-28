@@ -582,7 +582,7 @@
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-size:20px;
-  color:#999999;
+  color:#666666;
 }
 #u48_img {
   position:absolute;
@@ -1148,7 +1148,7 @@
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-size:20px;
-  color:#999999;
+  color:#666666;
 }
 #u93_img {
   position:absolute;
@@ -1280,9 +1280,9 @@
 }
 #u105 {
   position:absolute;
-  left:351px;
+  left:361px;
   top:449px;
-  width:638px;
+  width:628px;
   height:10px;
 }
 #u105_start {
@@ -1294,7 +1294,7 @@
 }
 #u105_end {
   position:absolute;
-  left:621px;
+  left:611px;
   top:-5px;
   width:18px;
   height:20px;
@@ -1303,7 +1303,7 @@
   position:absolute;
   left:0px;
   top:5px;
-  width:638px;
+  width:628px;
   height:1px;
 }
 #u106 {

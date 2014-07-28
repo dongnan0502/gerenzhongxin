@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"资源账单.html",
-  "generationDate":new Date(1406548969542.5),
+  "generationDate":new Date(1406549326273.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -873,7 +873,7 @@
               "color":0xFF0099FF},
             "location":{
               "x":898,
-              "y":92.5},
+              "y":92},
             "size":{
               "width":96,
               "height":32},
@@ -901,7 +901,7 @@
                   "color":0xFF0099FF},
                 "location":{
                   "x":898,
-                  "y":92.5},
+                  "y":92},
                 "size":{
                   "width":96,
                   "height":32},
@@ -1125,7 +1125,7 @@
             "fontWeight":"200",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFF999999,
+              "color":0xFF666666,
               "opacity":1},
             "location":{
               "x":250,
@@ -1148,7 +1148,7 @@
                 "fontWeight":"200",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFF999999,
+                  "color":0xFF666666,
                   "opacity":1},
                 "location":{
                   "x":250,
@@ -2101,7 +2101,7 @@
             "fontWeight":"200",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFF999999,
+              "color":0xFF666666,
               "opacity":1},
             "location":{
               "x":250,
@@ -2124,7 +2124,7 @@
                 "fontWeight":"200",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFF999999,
+                  "color":0xFF666666,
                   "opacity":1},
                 "location":{
                   "x":250,
@@ -2359,14 +2359,14 @@
           "visible":true,
           "style":{
             "location":{
-              "x":351,
+              "x":361,
               "y":449},
             "size":{
-              "width":638,
+              "width":628,
               "height":10},
             "borderFill":{
               "fillType":"solid",
-              "color":0xFFF2F2F2}},
+              "color":0xFFCCCCCC}},
           "adaptiveStyles":{
 },
           "images":{
@@ -2388,7 +2388,7 @@
               "height":10},
             "borderFill":{
               "fillType":"solid",
-              "color":0xFFF2F2F2}},
+              "color":0xFFCCCCCC}},
           "adaptiveStyles":{
 },
           "images":{

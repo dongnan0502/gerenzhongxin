@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"权限申请.html",
-  "generationDate":new Date(1406548971185.62),
+  "generationDate":new Date(1406549328098.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2372,7 +2372,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/资源账单/u105_line.png"}},
+            "line~":"images/权限申请/u105_line.png"}},
 {
           "id":"a906fd789d5d431b819dbe41f43fd47c",
           "label":"",
@@ -2394,7 +2394,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/资源账单/u106_line.png"}},
+            "line~":"images/权限申请/u106_line.png"}},
 {
           "id":"859c8fbd05a747479bc4871176e4dbe9",
           "label":"",
