@@ -77,13 +77,13 @@
             "type":"Folder",
             "url":"",
             "children":[{
-                "pageName":"L0/L1节点视图",
+                "pageName":"资源账单",
                 "type":"Wireframe",
-                "url":"l0_l1节点视图.html"},
+                "url":"资源账单.html"},
 {
-                "pageName":"L2节点视图",
+                "pageName":"权限申请",
                 "type":"Wireframe",
-                "url":"l2节点视图.html"}]}]}]},
+                "url":"权限申请.html"}]}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

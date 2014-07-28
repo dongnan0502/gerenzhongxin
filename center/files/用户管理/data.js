@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"用户管理.html",
-  "generationDate":new Date(1406269833946.66),
+  "generationDate":new Date(1406548455883.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -6938,7 +6938,7 @@
               "fillType":"solid",
               "color":0xFF0099FF},
             "location":{
-              "x":847.5,
+              "x":752,
               "y":1089},
             "size":{
               "width":80,
@@ -6966,7 +6966,7 @@
                   "fillType":"solid",
                   "color":0xFF0099FF},
                 "location":{
-                  "x":847.5,
+                  "x":752,
                   "y":1089},
                 "size":{
                   "width":80,
@@ -6991,7 +6991,7 @@
               "fillType":"solid",
               "color":0xFFFFFF},
             "location":{
-              "x":752.5,
+              "x":848,
               "y":1089},
             "size":{
               "width":80,
@@ -7015,7 +7015,7 @@
                   "fillType":"solid",
                   "color":0xFFFFFF},
                 "location":{
-                  "x":752.5,
+                  "x":848,
                   "y":1089},
                 "size":{
                   "width":80,

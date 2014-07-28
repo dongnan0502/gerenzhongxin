@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"删除个人帐号.html",
-  "generationDate":new Date(1406269836645),
+  "generationDate":new Date(1406548458577.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2692,7 +2692,7 @@
               "fillType":"solid",
               "color":0xFF0099FF},
             "location":{
-              "x":640,
+              "x":545,
               "y":1782},
             "size":{
               "width":80,
@@ -2720,7 +2720,7 @@
                   "fillType":"solid",
                   "color":0xFF0099FF},
                 "location":{
-                  "x":640,
+                  "x":545,
                   "y":1782},
                 "size":{
                   "width":80,
@@ -2745,7 +2745,7 @@
               "fillType":"solid",
               "color":0xFFFFFF},
             "location":{
-              "x":545,
+              "x":640,
               "y":1782},
             "size":{
               "width":80,
@@ -2769,7 +2769,7 @@
                   "fillType":"solid",
                   "color":0xFFFFFF},
                 "location":{
-                  "x":545,
+                  "x":640,
                   "y":1782},
                 "size":{
                   "width":80,
@@ -5869,8 +5869,8 @@
               "fillType":"solid",
               "color":0xFF0099FF},
             "location":{
-              "x":640,
-              "y":884.5},
+              "x":545,
+              "y":884},
             "size":{
               "width":80,
               "height":32},
@@ -5897,8 +5897,8 @@
                   "fillType":"solid",
                   "color":0xFF0099FF},
                 "location":{
-                  "x":640,
-                  "y":884.5},
+                  "x":545,
+                  "y":884},
                 "size":{
                   "width":80,
                   "height":32},
@@ -5922,8 +5922,8 @@
               "fillType":"solid",
               "color":0xFFFFFF},
             "location":{
-              "x":545,
-              "y":884.5},
+              "x":640,
+              "y":884},
             "size":{
               "width":80,
               "height":32},
@@ -5946,8 +5946,8 @@
                   "fillType":"solid",
                   "color":0xFFFFFF},
                 "location":{
-                  "x":545,
-                  "y":884.5},
+                  "x":640,
+                  "y":884},
                 "size":{
                   "width":80,
                   "height":32},
@@ -5979,7 +5979,7 @@
 },
           "images":{
             "start~":"resources/images/transparent.gif",
-            "end~":"images/申请pdb权限/u345_end.png",
+            "end~":"images/申请pdb权限/u306_end.png",
             "line~":"images/添加个人帐号/u308_line.png"}},
 {
           "id":"d86b43c7ae724415b279ba3925f43cc3",
@@ -9069,7 +9069,7 @@
               "fillType":"solid",
               "color":0xFF0099FF},
             "location":{
-              "x":640,
+              "x":545,
               "y":2629},
             "size":{
               "width":80,
@@ -9097,7 +9097,7 @@
                   "fillType":"solid",
                   "color":0xFF0099FF},
                 "location":{
-                  "x":640,
+                  "x":545,
                   "y":2629},
                 "size":{
                   "width":80,
@@ -9122,7 +9122,7 @@
               "fillType":"solid",
               "color":0xFFFFFF},
             "location":{
-              "x":545,
+              "x":640,
               "y":2629},
             "size":{
               "width":80,
@@ -9146,7 +9146,7 @@
                   "fillType":"solid",
                   "color":0xFFFFFF},
                 "location":{
-                  "x":545,
+                  "x":640,
                   "y":2629},
                 "size":{
                   "width":80,

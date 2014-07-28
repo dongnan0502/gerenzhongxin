@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"申请管理员.html",
-  "generationDate":new Date(1406269837569.12),
+  "generationDate":new Date(1406548460070.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -4500,7 +4500,7 @@
               "fillType":"solid",
               "color":0xFF0099FF},
             "location":{
-              "x":765,
+              "x":669,
               "y":764},
             "size":{
               "width":80,
@@ -4528,7 +4528,7 @@
                   "fillType":"solid",
                   "color":0xFF0099FF},
                 "location":{
-                  "x":765,
+                  "x":669,
                   "y":764},
                 "size":{
                   "width":80,
@@ -4553,7 +4553,7 @@
               "fillType":"solid",
               "color":0xFFFFFF},
             "location":{
-              "x":669,
+              "x":760.5,
               "y":764},
             "size":{
               "width":80,
@@ -4577,7 +4577,7 @@
                   "fillType":"solid",
                   "color":0xFFFFFF},
                 "location":{
-                  "x":669,
+                  "x":760.5,
                   "y":764},
                 "size":{
                   "width":80,

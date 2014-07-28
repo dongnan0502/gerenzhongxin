@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"添加个人帐号.html",
-  "generationDate":new Date(1406269835261.05),
+  "generationDate":new Date(1406548456961.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2752,7 +2752,7 @@
               "fillType":"solid",
               "color":0xFF0099FF},
             "location":{
-              "x":640,
+              "x":545,
               "y":845},
             "size":{
               "width":80,
@@ -2780,7 +2780,7 @@
                   "fillType":"solid",
                   "color":0xFF0099FF},
                 "location":{
-                  "x":640,
+                  "x":545,
                   "y":845},
                 "size":{
                   "width":80,
@@ -2805,7 +2805,7 @@
               "fillType":"solid",
               "color":0xFFFFFF},
             "location":{
-              "x":545,
+              "x":640,
               "y":845},
             "size":{
               "width":80,
@@ -2829,7 +2829,7 @@
                   "fillType":"solid",
                   "color":0xFFFFFF},
                 "location":{
-                  "x":545,
+                  "x":640,
                   "y":845},
                 "size":{
                   "width":80,
@@ -5603,7 +5603,7 @@
               "fillType":"solid",
               "color":0xFF0099FF},
             "location":{
-              "x":640,
+              "x":545,
               "y":1655},
             "size":{
               "width":80,
@@ -5631,7 +5631,7 @@
                   "fillType":"solid",
                   "color":0xFF0099FF},
                 "location":{
-                  "x":640,
+                  "x":545,
                   "y":1655},
                 "size":{
                   "width":80,
@@ -5656,7 +5656,7 @@
               "fillType":"solid",
               "color":0xFFFFFF},
             "location":{
-              "x":545,
+              "x":640,
               "y":1655},
             "size":{
               "width":80,
@@ -5680,7 +5680,7 @@
                   "fillType":"solid",
                   "color":0xFFFFFF},
                 "location":{
-                  "x":545,
+                  "x":640,
                   "y":1655},
                 "size":{
                   "width":80,
@@ -5896,7 +5896,7 @@
 },
           "images":{
             "start~":"resources/images/transparent.gif",
-            "end~":"images/申请pdb权限/u345_end.png",
+            "end~":"images/申请pdb权限/u306_end.png",
             "line~":"images/添加个人帐号/u308_line.png"}},
 {
           "id":"276052f27bbf419eb4d79b3cf7ca6851",
