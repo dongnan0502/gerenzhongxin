@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"申请管理员.html",
-  "generationDate":new Date(1406549563389.56),
+  "generationDate":new Date(1406603458913.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -4539,7 +4539,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u334.png"}},
+            "normal~":"images/用户管理/u332.png"}},
 {
           "id":"b6b2c06cddf74895a9d9b8b521c01a75",
           "label":"",
@@ -4588,7 +4588,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u336.png"}},
+            "normal~":"images/用户管理/u334.png"}},
 {
           "id":"dbc6348f97574f18aab92e3f9a3b59db",
           "label":"",

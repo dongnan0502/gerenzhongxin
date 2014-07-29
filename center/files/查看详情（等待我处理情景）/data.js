@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看详情（等待我处理情景）.html",
-  "generationDate":new Date(1406549566837),
+  "generationDate":new Date(1406603462508.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -5074,7 +5074,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u334.png"}},
+            "normal~":"images/用户管理/u332.png"}},
 {
           "id":"3572102631924e66a350e80042f11669",
           "label":"",
@@ -5123,7 +5123,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u336.png"}},
+            "normal~":"images/用户管理/u334.png"}},
 {
           "id":"fdc0ad5fec654d1c95745284c10ba266",
           "label":"",

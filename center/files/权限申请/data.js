@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"权限申请.html",
-  "generationDate":new Date(1406549569972.34),
+  "generationDate":new Date(1406603465844.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -8142,7 +8142,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u334.png"}},
+            "normal~":"images/用户管理/u332.png"}},
 {
           "id":"b0660cdb8ac849bfb438a81451f8354c",
           "label":"",
@@ -8191,7 +8191,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/用户管理/u336.png"}},
+            "normal~":"images/用户管理/u334.png"}},
 {
           "id":"edac7f1a8ea3410e888332d97b3929ce",
           "label":"",
